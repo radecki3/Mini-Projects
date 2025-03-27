@@ -1,6 +1,6 @@
 **Tableau Chicago Airbnb Project**
 
-Here, I used data from Inside Airbnb to develop a dashboard of Chicago Airbnb rental data, which spans multiple years and includes thousands of listings.
+Here, I used data from Inside Airbnb (https://insideairbnb.com/get-the-data/) to develop a dashboard of Chicago Airbnb rental data, which spans multiple years and includes thousands of listings.
 
 Below is the full dashboard (viewable interactively at Tableau Public: https://public.tableau.com/app/profile/martin.radecki/viz/ChicagoAirbnb_17431183571090/Dashboard1?publish=yes).
 
