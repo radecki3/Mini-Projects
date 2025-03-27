@@ -2,6 +2,8 @@
 
 Here, I used data from Inside Airbnb (https://insideairbnb.com/get-the-data/) to develop a dashboard of Chicago Airbnb rental data, which spans multiple years and includes thousands of listings.
 
+Any datasets from Inside Airbnb should be able to be subsituted in and work more-or-less seemlessly.
+
 Below is the full dashboard (viewable interactively at Tableau Public: https://public.tableau.com/app/profile/martin.radecki/viz/ChicagoAirbnb_17431183571090/Dashboard1?publish=yes).
 
 There are also some unseen joins, case statements, and outlier cleaning (via calculated fields) not included in the screenshots that were used to polish up the data.
