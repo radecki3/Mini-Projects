@@ -4,7 +4,7 @@ Here, I used data from Inside Airbnb (https://insideairbnb.com/get-the-data/) to
 
 Below is the full dashboard (viewable interactively at Tableau Public: https://public.tableau.com/app/profile/martin.radecki/viz/ChicagoAirbnb_17431183571090/Dashboard1?publish=yes).
 
-There are also some unseen joins, case statements, and outlier cleaning (via calculated fields) not included in the screenshots used to polish up the data.
+There are also some unseen joins, case statements, and outlier cleaning (via calculated fields) not included in the screenshots that were used to polish up the data.
 
 **The Completed Dashboard**
 
